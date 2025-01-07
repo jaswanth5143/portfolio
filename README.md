@@ -1,5 +1,7 @@
 # Java Full Stack Developer
 
+![Profile Picture](https://github.com/username/repository-name/blob/main/path/to/profile-pic.jpg)
+
 ## Profile Summary:
 
 I am a highly skilled **Java Full Stack Developer** with 7 years of experience in designing, developing, and deploying enterprise-level web and client-server applications. I possess a strong foundation in Object-Oriented Programming (OOP) principles and have extensive knowledge of Software Development Life Cycle (SDLC) methodologies, including Agile/Scrum and Waterfall frameworks. I specialize in building scalable, efficient, and modular systems using modern technologies and cloud-based solutions.
