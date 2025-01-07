@@ -1,6 +1,6 @@
 # Java Full Stack Developer
 
-![Profile Picture](https://github.com/jaswanth5143/portfolio/blob/main/image.jpg)
+![Profile Picture](https://github.com/jaswanth5143/portfolio/blob/main/profileimage.jpg)
 
 ## Profile Summary:
 
