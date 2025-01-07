@@ -21,15 +21,15 @@ I am a highly skilled **Java Full Stack Developer** with 7 years of experience i
   
 ## Technical Skills:
 
-**Programming Languages**: Java (1.7, 1.8, 1.11), Typescript, SQL, Python 3, Shell Script  
-**Frameworks**: Spring (Boot, Security, REST), Hibernate, Struts, Spring MVC  
-**Web Technologies**: HTML5, CSS3, JavaScript, Angular 4/6/7/9, ReactJS, NodeJS, ExtJS  
-**Cloud Platforms**: AWS (EC2, S3, Lambda, DynamoDB, Aurora), Azure  
-**DevOps**: Jenkins, Maven, Gradle, Terraform, Docker, OpenShift  
-**Databases**: PostgreSQL, Oracle, MySQL, MongoDB, Cassandra, DB2  
-**Version Control**: Git, Bitbucket, SVN, CVS  
-**CI/CD Tools**: Jenkins, Bamboo, GitHub Actions  
-**Testing Tools**: JUnit, Selenium, Mockito, Cucumber, JMeter  
+- **Programming Languages**: Java (1.7, 1.8, 1.11), Typescript, SQL, Python 3, Shell Script  
+- **Frameworks**: Spring (Boot, Security, REST), Hibernate, Struts, Spring MVC  
+- **Web Technologies**: HTML5, CSS3, JavaScript, Angular 4/6/7/9, ReactJS, NodeJS, ExtJS  
+- **Cloud Platforms**: AWS (EC2, S3, Lambda, DynamoDB, Aurora), Azure  
+- **DevOps**: Jenkins, Maven, Gradle, Terraform, Docker, OpenShift  
+- **Databases**: PostgreSQL, Oracle, MySQL, MongoDB, Cassandra, DB2  
+- **Version Control**: Git, Bitbucket, SVN, CVS  
+- **CI/CD Tools**: Jenkins, Bamboo, GitHub Actions  
+- **Testing Tools**: JUnit, Selenium, Mockito, Cucumber, JMeter  
 
 ## Professional Experience:
 
