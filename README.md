@@ -1,6 +1,6 @@
 # Java Full Stack Developer
 
-![Profile Picture](https://github.com/jaswanth5143/portfolio/blob/main/WhatsApp%20Image%202025-01-06%20at%205.56.01%20PM.jpeg?raw=true)
+![Profile Picture](https://github.com/jaswanth5143/portfolio/blob/main/image.jpg)
 
 ## Profile Summary:
 
