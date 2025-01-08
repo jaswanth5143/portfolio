@@ -95,7 +95,7 @@ I am a highly skilled **Java Full Stack Developer** with 7 years of experience i
 ## Education:
 
 - Master’s in Computer Science – Troy University  
-- Bachelor of Technology in Computer Science and Engineering – Jawaharlal Technological University
+- Bachelor of Technology in Computer Science and Engineering – Jawaharlal Nehru Technological University
 ---
 
 ## Projects:
