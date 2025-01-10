@@ -36,7 +36,7 @@ I am a highly skilled **Java Full Stack Developer** with 7 years of experience i
 ### **Client: Regal Rexnord**  
 **Role**: Senior Full Stack Java Developer  
 **Location**: United States  
-**Dates**: July 2023 – Present
+**Dates**: Aug 2023 – Present
 
 - Developed web applications using **HTML, CSS, JavaScript**, **GraphQL**, and **jQuery**.
 - Designed and implemented **cloud architectures** using **AWS** with **Java**-based services.
@@ -68,7 +68,7 @@ I am a highly skilled **Java Full Stack Developer** with 7 years of experience i
 ### **Client: Target**  
 **Role**: Java Developer  
 **Location**: Remote  
-**Dates**: May 2020 – Oct 2021
+**Dates**: Nov 2020 – Oct 2021
 
 - Developed front-end functionalities using **HTML**, **CSS**, and **JavaScript**.
 - Collaborated with backend teams to ensure data integrity across **microservices**.
@@ -82,7 +82,7 @@ I am a highly skilled **Java Full Stack Developer** with 7 years of experience i
 ### **Client: IBM**  
 **Role**: Java Developer  
 **Location**: Remote  
-**Dates**: Mar 2018 – Apr 2020
+**Dates**: May 2018 – Oct 2020
 
 - Developed enterprise applications using **J2EE**, **EJB**, **Struts**, and **Spring**.
 - Implemented **web services** (SOAP) for communication with external systems.
